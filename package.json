@@ -1,0 +1,23 @@
+{
+  "name": "final-test-eduwork",
+  "version": "1.0.0",
+  "description": "Javascript Nodejs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roniekas/finaltest.git"
+  },
+  "keywords": [
+    "Javascript",
+    "NodeJS"
+  ],
+  "author": "Roni Eka Setiawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roniekas/finaltest/issues"
+  },
+  "homepage": "https://github.com/roniekas/finaltest#readme"
+}
